@@ -14,4 +14,4 @@ Copy and past the *.ino files contents into your Arduino IDE and compile.
 # Bug reports
 Email me your reports at: 
 
-                        mortezashoeibi77@gmail.com
+    mortezashoeibi77@gmail.com
