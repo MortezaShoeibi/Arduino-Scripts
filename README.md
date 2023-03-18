@@ -8,7 +8,7 @@ Some Arduino pro micro scripts
 * Arduino Keyboard.h lib
 
 ## Usage
-Copy and past the *.ino files contents into your Arduino IDE and compile.
+Copy and paste the *.ino files content into your Arduino IDE and compile.
 
 
 # Bug reports
