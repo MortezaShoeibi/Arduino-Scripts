@@ -1,7 +1,7 @@
 # Arduino Scripts
 Some Arduino pro micro scripts
 
-![Arduino pro micro(ATmega32u4)](https://github.com/MortezaShoeibi/Arduino-Scripts/blob/master/assets/Ardino.png?raw=true)
+![Arduino pro micro(ATmega32u4)](https://github.com/MortezaShoeibi/Arduino-Scripts/blob/master/assets/Arduino.png?raw=true)
 
 ## Requirements
 * Arduino pro micro (ATmega32u4)
