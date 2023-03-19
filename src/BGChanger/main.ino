@@ -22,7 +22,7 @@ void setup() {
 }
 
 void loop() {
-    delay(3000);
+    delay(5000);
     // open run
     Keyboard.press(KEY_RIGHT_GUI);
     Keyboard.press('r');
