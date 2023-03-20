@@ -31,7 +31,7 @@ void loop() {
     delay(1000);
     // type and hit enter
     // NOTE: change the link to your photo
-    Keyboard.println("chrome https://github.com/MortezaShoeibi/Arduino-Scripts/blob/master/assets/sunglasses-in-the-dark.jpg");
+    Keyboard.println("chrome https://raw.githubusercontent.com/MortezaShoeibi/Arduino-Scripts/master/assets/sunglasses-in-the-dark.jpg");
     delay(4000);
     // save the image
     Keyboard.press(KEY_LEFT_CTRL);
