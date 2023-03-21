@@ -27,7 +27,7 @@ void loop() {
 	Keyboard.releaseAll();
 	delay(1000);
 	// type and hit enter
-	Keyboard.println("chrome https://fakeupdate.net/win10/");
+	Keyboard.println("chrome https://fakeupdate.net/win10ue/");
 	delay(4000);
 	Keyboard.press(KEY_F11);
 	delay(RELEASE_KEYS);
