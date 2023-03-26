@@ -165,8 +165,6 @@ void loop() {
     delay(2000);
     // exit cmd
     Keyboard.println("exit");
-    delay(5000);
-    press2keys(KEY_LEFT_ALT, KEY_F4);
 
     while(1);
 }
