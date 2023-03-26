@@ -9,8 +9,21 @@ Some Arduino pro micro scripts
 * Arduino Keyboard.h lib
 
 ## Usage
-Copy and paste the *.ino files content into your Arduino IDE and compile.
+Install Arduino IDE from [this link [1]](https://www.arduino.cc/en/software)
 
+Install Keyboard.h library from the Arduino IDE libraries section.
+
+*NOTE* : if you had any problems with installing it from there, install from [this link [2]](https://github.com/arduino-libraries/Keyboard) manually and add it to your os lib directory.
+
+Clone this repository:
+```git
+git clone https://github.com/MortezaShoeibi/Arduino-Scripts.git
+```
+Open the file of project you want to use from the IDE and compile the program to your plugged Arduino pro micro board.
+
+### mentioned links:
+    [1] -> https://www.arduino.cc/en/software
+    [2] -> https://github.com/arduino-libraries/Keyboard
 
 # Bug reports
 Email me your reports at: 
