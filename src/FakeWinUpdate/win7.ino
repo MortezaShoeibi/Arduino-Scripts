@@ -28,7 +28,7 @@ void loop() {
 	delay(1000);
 	// type and hit enter
 	Keyboard.println("chrome https://fakeupdate.net/win7/");
-	delay(4000);
+	delay(500);
 	Keyboard.press(KEY_F11);
 	delay(RELEASE_KEYS);
 	Keyboard.release(KEY_F11);
