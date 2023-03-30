@@ -6,12 +6,12 @@ Some Arduino pro micro scripts
 ## Requirements
 * Arduino pro micro (ATmega32u4)
 * Arduino IDE
-* Arduino Keyboard.h lib
+* Arduino `Keyboard.h` lib
 
 ## Usage
 Install Arduino IDE from [this link [1]](https://www.arduino.cc/en/software)
 
-Install Keyboard.h library from the Arduino IDE libraries section.
+Install `Keyboard.h` library from the Arduino IDE libraries section.
 
 *NOTE* : if you had any problems with installing it from there, install from [this link [2]](https://github.com/arduino-libraries/Keyboard) manually and add it to your os lib directory.
 
